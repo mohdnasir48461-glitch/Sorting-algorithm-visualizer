@@ -13,4 +13,4 @@ An interactive dashboard that compares Bubble, Selection, Insertion, Quick, Merg
 Open `index.html` in any browser. No install or build step needed.
 
 ## Live demo
-https://YOUR-USERNAME.github.io/sorting-visualizer/
+https://mohdnasir48461-glitch.github.io/Sorting-algorithm-visualizer/
